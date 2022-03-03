@@ -1,6 +1,6 @@
 # Embedded Tools
 
-The Embedded Tools extension for Visual Studio Code provides a register viewer for [CMSIS-SVD](https://www.keil.com/pack/doc/CMSIS/SVD/html/index.html) files, and an RTOS data viewer with support for [Azure RTOS](https://azure.microsoft.com/en-us/services/rtos/) and [FreeRTOS](https://www.freertos.org/).
+The Embedded Tools extension for Visual Studio Code provides a register viewer for [CMSIS-SVD](https://www.keil.com/pack/doc/CMSIS/SVD/html/index.html) files, and an RTOS data viewer with support for [Azure RTOS ThreadX](https://azure.microsoft.com/en-us/services/rtos/) and [FreeRTOS](https://www.freertos.org/).
 
 **This repository is used solely for tracking feedback. It contains no source code for the extension itself.**
 
