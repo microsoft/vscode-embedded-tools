@@ -1,4 +1,9 @@
-# Embedded Tools
+# Embedded Tools for VS Code (deprecated)
+
+> ⚠️ **Warning** ⚠️
+>
+> # This extension is deprecated and no longer maintained.
+> # This extension will no longer be available on the marketplace as of 1/15/2026, please see [details here](https://github.com/microsoft/vscode-embedded-tools/issues/83).
 
 The Embedded Tools extension for Visual Studio Code provides a register viewer for [CMSIS-SVD](https://www.keil.com/pack/doc/CMSIS/SVD/html/index.html) files, and an RTOS data viewer with support for [Azure RTOS ThreadX](https://azure.microsoft.com/en-us/services/rtos/) and [FreeRTOS](https://www.freertos.org/).
 
